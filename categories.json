@@ -1,0 +1,254 @@
+{
+"categories":[
+  {
+    "id": 0,
+    "name": "Soups",
+    "sub": null,
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_12216.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Cooking Style",
+    "sub": [
+      "Instant Pot®",
+      "Slow Cooker",
+      "One Pot",
+      "Casserole",
+      "Stew",
+      "Skillet",
+      "Roasted",
+      "Grilled",
+      "BBQ",
+      "Breaded"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_12208.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Quick & Easy",
+    "sub": [
+      "Quick",
+      "Easy",
+      "Kid Friendly"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_24738.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Breakfast",
+    "sub": [
+      "Eggs",
+      "Strata",
+      "Toasta",
+      "Frittata",
+      "Quiche",
+      "Bagels",
+      "Smoothies",
+      "Bloody Mary"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_26884.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lunch",
+    "sub": [
+      "Sandwiches",
+      "Wraps",
+      "Buns",
+      "Pizza",
+      "Mac and cheese"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_10430.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Appetizer",
+    "sub": [
+      "Appetizer Meat",
+      "Appetizer Cheese",
+      "Appetizer Shrimp",
+      "Appetizer Dip"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_25022.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Salad",
+    "sub": null,
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_10841.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dinner",
+    "sub": [
+      "Beef",
+      "Chicken",
+      "Turkey",
+      "Pork",
+      "Fish",
+      "Shrimp",
+      "Vegetarian",
+      "Pasta",
+      "Risotto"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_27289.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dinner Sides",
+    "sub": [
+      "Side Vegetable",
+      "Side Green Beans",
+      "Side Cauliflower",
+      "Side Squash",
+      "Side potato",
+      "Potato Toppers",
+      "Stuffing"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_24776.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Desserts",
+    "sub": [
+      "Vanilla",
+      "Chocolate",
+      "Cookies",
+      "Fruit",
+      "Ice Cream",
+      "Smoothies"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_25471.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cuisine",
+    "sub": [
+      "Asian",
+      "Creole",
+      "Cajun",
+      "Chinese",
+      "Irish",
+      "Italian",
+      "Indian",
+      "Mexican",
+      "Spanish",
+      "Southern",
+      "Southwest",
+      "Thai",
+      "Tex-Mex",
+      "German"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_10460.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Seasonal",
+    "sub": [
+      "Holiday",
+      "Oktoberfest",
+      "Halloween",
+      "Thanksgiving",
+      "Valentine's day",
+      "St. Patrick's Day",
+      "Fall",
+      "Winter",
+      "Spring",
+      "Summer"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_9083.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Game Day",
+    "sub": null,
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_25888.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Prego® Recipes",
+    "sub": [
+      "Prego® Roasted Garlic Parmesan Alfredo Sauce",
+      "Prego® Homestyle Alfredo Sauce",
+      "Prego® Italian Sauce Flavored with Meat Sauce",
+      "Prego® Fresh Mushroom Italian Sauce",
+      "Prego® Italian Sausage & Garlic Meat Sauce",
+      "Prego® Roasted Garlic & Herb Italian Sauce",
+      "Prego® Traditional Italian Sauce"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_11719.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Campbell's® Soup",
+    "sub": [
+      "Sweet Potato Cooking Soup",
+      "Roasted Red Pepper Cooking Soup",
+      "Mushroom Cooking Soup",
+      "Creamy Cauliflower Cooking Soup"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_11712.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Pace®",
+    "sub": [
+      "Pace® Thick & Chunky Salsa Hot",
+      "Pace® Mild Chunky Salsa",
+      "Pace® Chunky Salsa Medium"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_11225.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Swanson® Recipes",
+    "sub": [
+      "Chicken Broth",
+      "Natural Goodness® Chicken Broth",
+      "Chicken Bone Broth",
+      "Vegetable Broth",
+      "Beef Broth"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_23819.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Pepperidge Farm® Recipes",
+    "sub": [
+      "Goldfish®",
+      "Puff Pastry Sheets",
+      "Cookies",
+      "3-Layer Cake",
+      "Turnovers",
+      "Sandwich Breads",
+      "Swirl Breads",
+      "Buns & Rolls",
+      "Bagels"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_10494.jpg"
+  },
+  {
+    "id": 18,
+    "name": "V8® Recipes",
+    "sub": [
+      "V8® Original",
+      "V8® Bloody Mary Mix",
+      "V8® Spicy Hot",
+      "V8® Low Sodium Spicy Hot",
+      "V8® Peach Mango"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_11790.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Campbell's® Sauces Recipes",
+    "sub": [
+      "Campbell’s® Skillet Sauces",
+      "Campbell’s® Slow Cooker Sauces",
+      "Campbell’s® Oven Sauces"
+    ],
+    "image_url": "https://www.cscassets.com/recipes/large_cknew/large_50098.jpg"
+  }
+],
+  "categoriesToShow": 10
+}
