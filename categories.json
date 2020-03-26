@@ -230,13 +230,7 @@
   {
     "id": 18,
     "name": "V8® Recipes",
-    "sub": [
-      "V8® Original",
-      "V8® Bloody Mary Mix",
-      "V8® Spicy Hot",
-      "V8® Low Sodium Spicy Hot",
-      "V8® Peach Mango"
-    ],
+    "sub": null,
     "image_url": "https://www.cscassets.com/recipes/large_cknew/large_11790.jpg"
   },
   {
