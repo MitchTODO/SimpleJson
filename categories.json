@@ -230,7 +230,9 @@
   {
     "id": 18,
     "name": "V8® Recipes",
-    "sub": null,
+    "sub": [
+      "V8® Spicy Hot"
+    ],
     "image_url": "https://www.cscassets.com/recipes/large_cknew/large_11790.jpg"
   },
   {
