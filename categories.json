@@ -191,11 +191,7 @@
   {
     "id": 15,
     "name": "Pace®",
-    "sub": [
-      "Pace® Thick & Chunky Salsa Hot",
-      "Pace® Mild Chunky Salsa",
-      "Pace® Chunky Salsa Medium"
-    ],
+    "sub": null,
     "image_url": "https://www.cscassets.com/recipes/large_cknew/large_11225.jpg"
   },
   {
