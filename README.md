@@ -9,13 +9,11 @@
 
 ## 📑 About
 
-SimpleJson is something I like to share and show how a well created json schema can determine the layout of the user interface and the content it displays.
-
 As JSON is mainly used between a browser and server, its also a good and simple solutuion to managing content within mobile app (Android & iOS).
 
 This file can be referenced or used for examples.
 
-What you will find
+What you will find.
 - Quick json run down
 - Using json to displayed content in a mobile app.
 
@@ -26,7 +24,7 @@ Json code can be found in `Categories.json`.
 
 One really nice thing about json it is really easy to understand. Below is a code snippet from the full json file.
 
-Its best to build a Json schema in a way that can be easy expanded and updated without effecting the way its parsed. With the example below a list is used  (`categories`)  for felixablity with amount of menu objects that can be added or removed. Also by using optional values `null` allows for some felixability but will need to be handled when parsed. Integerty checking is not really nesscary with json files. But because my json file is on github I want to check for accidentally changes. A [MD5 hash](https://en.wikipedia.org/wiki/MD5) of the file is a good solid solution. As hashing is out of the scope of this readme [here](https://stackoverflow.com/questions/30610545/checking-json-file-integrity) you can find more info on integerty checking. How to parsing json is common between languages but matching data structures and syntexs can be a little tricky. [Here](https://quicktype.io/) is a great online tool that matches json to code structures.
+Its best to build a Json schema in a way that can be easy expanded and updated without effecting the way its parsed. With the example below a list is used  (`categories`)  for felixablity with amount of menu objects that can be added or removed. Also by using optional values `null` allows for some felixability but will need to be handled when parsed. When it comes to best pratice having a integerty checking incorprated is crucial. Therefore I use a [MD5 hash](https://en.wikipedia.org/wiki/MD5) of the file to check for unwanted or accidentally changes. As hashing is out of the scope of this readme [here](https://stackoverflow.com/questions/30610545/checking-json-file-integrity) you can find more info on integerty checking. How to parsing json is common between languages but matching data structures and syntexs can be a little tricky. [Here](https://quicktype.io/) is a great online tool that matches json to different code structures.
 
     categories :    List of menu objects
     
