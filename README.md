@@ -24,7 +24,7 @@ Json code can be found in `Categories.json`.
 
 One really nice thing about json it is really easy to understand. Below is a code snippet from the full json file.
 
-Its best to build a Json schema in a way that can be easy expanded and updated without effecting the way its parsed. With the example below a list is used  (`categories`)  for felixablity with amount of menu objects that can be added or removed. Also by using optional values `null` allows for some felixability but will need to be handled when parsed. When it comes to best pratice having a integerty checking incorprated is crucial. Therefore I use a [MD5 hash](https://en.wikipedia.org/wiki/MD5) of the file to check for unwanted or accidentally changes. As hashing is out of the scope of this readme [here](https://stackoverflow.com/questions/30610545/checking-json-file-integrity) you can find more info on integerty checking. How to parsing json is common between languages but matching data structures and syntexs can be a little tricky. [Here](https://quicktype.io/) is a great online tool that matches json to different code structures.
+Its best to build a Json schema in a way that can be easy expanded and updated without effecting the way its parsed. With the example below a list is used  (`categories`)  for felixablity with amount of menu objects that can be added or removed. Also by using optional values `null` allows for some felixability but will need to be handled when parsed. When it comes to best pratice having a integerty checking incorprated is crucial. Therefore I use a [MD5 hash](https://en.wikipedia.org/wiki/MD5) of the file to check for unwanted or accidentally changes. More info on integerty checking can be found  [here](https://stackoverflow.com/questions/30610545/checking-json-file-integrity) . Parsing json is common between languages but matching data structures and syntexs can be a little tricky. [Here](https://quicktype.io/) is a great online tool that matches json to different code structures.
 
     categories :    List of menu objects
     
@@ -80,7 +80,7 @@ Below are images showing how I used the json to determine the layout of the user
 ![alt text](readmeAssets/example3.png "Exmaple 3")
 
 
-Check out the ClassicRecipes app for your self.
+Check out the ClassicRecipes app for yourself.
 
 iOS
 https://apps.apple.com/us/app/classic-recipes/id1544630699
@@ -96,7 +96,7 @@ https://play.google.com/store/apps/details?id=com.mitchelltucker.classicRecipes
 
 ## ❗️Issues  
 
-If you feel that I left some thing out or want more code examples create a new issue in this repo. 
+If you feel that I left some thing out or want more code examples open a new issue for this repo. 
 
 
 
