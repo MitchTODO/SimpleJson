@@ -22,9 +22,10 @@ What you will find.
 
 Json code can be found in `Categories.json`.
 
-One nice thing about json is ease to understand. Below is a code snippet from the full json file.
+One nice thing about json is easy to understand. Below is a code snippet from the full json file.
 
-Best to build a Json schema in a way that can be easily expanded and updated without altering the way it is parsed.  The example list below  is used  (`categories`)  for felixablity enabling the amount of menu objects to be added or removed. Also, by using optional values `null` allows for some felixability but will need to be handled when parsed. When it comes to best practice, including an integrity check is crucial. Therefore, I used [MD5 hash](https://en.wikipedia.org/wiki/MD5) on the file to check for unwanted or accidental changes. More info on integrity checking can be found  at (https://stackoverflow.com/questions/30610545/checking-json-file-integrity) . Parsing json is common between languages, however,  matching data structures and syntexs can be a little tricky. So here is a great online tool that matches json to different code structures [](https://quicktype.io/).
+Best to build a Json schema in a way that can be easily expanded and updated without modify the way it is parsed.  The example JSON below contains a array (`categories`)  that allows the
+felixable with the amount of menu objects. Also, by using optional values `null` allows for some felixability but will need to be handled when parsed. When it comes to best practice, including an integrity check is crucial. Therefore, I used [MD5 hash](https://en.wikipedia.org/wiki/MD5) on the file to check for unwanted or accidental changes. More info on integrity checking can be found  at (https://stackoverflow.com/questions/30610545/checking-json-file-integrity) . Parsing json is common between languages, however,  matching data structures and syntexs can be a little tricky. So here is a great online tool that matches json to different code structures [](https://quicktype.io/).
 
     categories :    List of menu objects
     
